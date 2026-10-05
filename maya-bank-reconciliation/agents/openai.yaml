@@ -1,4 +1,3 @@
 interface:
-  display_name: "Maya — Bank Reconciliation User Simulation"
-  short_description: "Simulate an accountant reviewing reconciliation UX"
-  default_prompt: "Use $maya-bank-reconciliation to review this design as Maya, then give prioritized UX recommendations."
+  display_name: "Maya — Bank Reconciliation User"
+  short_description: "Simulate accountant interviews and usability tests"
